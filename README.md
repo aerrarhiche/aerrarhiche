@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aerrarhiche
-- 👀 I’m interested in video games and programming
-- 🌱 I’m currently learning how to code on Java and Python
-- 📫 How to reach me aymanerrarhiche@gmail.com
+- 👋 Hi, I’m Ayman
+- 👀 I love video games and programming
+- 🌱 I’m currently majoring in Computer Science with a specialization in Video Games
+- 📫 How to reach me meta.ayman@gmail.com
 
 <!---
 aerrarhiche/aerrarhiche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
