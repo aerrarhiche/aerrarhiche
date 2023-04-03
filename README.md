@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayman
+- 👋 Hi, I’m Ayman Errarhiche
 - 👀 I love video games and programming
 - 🌱 I’m currently majoring in Computer Science with a specialization in Video Games
 - 📫 How to reach me meta.ayman@gmail.com
