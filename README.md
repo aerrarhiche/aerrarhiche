@@ -2,7 +2,7 @@
 - 👀 I love video games and programming
 - 🌱 I’m currently majoring in Computer Science with a specialization in Video Games
 - 📫 How to reach me meta.ayman@gmail.com
-- 🖥️ This is my website www.aymanerrarhiche.com
+- 🖥️ This is my website http://www.aymanerrarhiche.com
 
 <!---
 aerrarhiche/aerrarhiche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
